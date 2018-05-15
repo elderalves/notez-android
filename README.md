@@ -1,4 +1,4 @@
-# Notez Android
+# Notez Android - A Great Note Taking App
 
 ### A simple note taking app for Android built for CS 246 at BYU-Idaho Spring Semester 2018
 
