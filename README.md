@@ -5,4 +5,5 @@
 ## Authors:
 
 * Devin Cenatiempo
-* Michael Alves
+* Michael Alves\
+* Tim Caine
